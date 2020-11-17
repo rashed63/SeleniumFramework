@@ -1,0 +1,6 @@
+03:17:40.115 [main] INFO  TestCases.HomePage - LoginPage Initiated
+03:17:41.367 [main] INFO  TestCases.HomePage - Clicked on to login Button
+03:17:55.360 [main] INFO  TestCases.HomePage - LoginPage Initiated
+03:17:56.350 [main] INFO  TestCases.HomePage - Clicked on to login Button
+03:18:05.276 [main] INFO  TestCases.ValidateNavigationBar - Url Linked accessed properly
+03:18:05.446 [main] INFO  TestCases.ValidateNavigationBar - landing page displayed
